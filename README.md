@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raditya Ananda Rohman</h1>
 <h3 align="center">Front-End Web Developer from Indonesia.</h3>
-<img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=ecf05e47nzfkau4tvu4g1unyg93vvz4u4390cxxmsegzisu6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" align="right"/>
+<img width="300" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=ecf05e47nzfkau4tvu4g1unyg93vvz4u4390cxxmsegzisu6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radityarohman&label=Profile%20views&color=0e75b6&style=flat" alt="radityarohman" /> </p>
 
