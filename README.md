@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radityarohman&label=Profile%20views&color=0e75b6&style=flat" alt="radityarohman" /> </p>
 
-- 🔭 I’m a SIJA (Sistem Informasi Jaringan dan Aplikasi) student SMKN 69 Jakarta
+- 🔭 I’m a SIJA (Sistem Informasi Jaringan dan Aplikasi) student from SMKN 69 Jakarta
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Programming and Web Development**
 
 - 📫 How to reach me **raditya.26.rohman@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/cv-radit](https://bit.ly/cv-radit)
+- 📄 Know about my experiences [https://bit.ly/cv-radit](https://bit.ly/CV-Radit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
