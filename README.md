@@ -5,7 +5,7 @@
 
 - 🔭 I’m a SIJA (Sistem Informasi Jaringan dan Aplikasi) student from SMKN 69 Jakarta
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **UTBK**
 
 - 💬 Ask me about **Programming and Web Development**
 
